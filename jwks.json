@@ -7,6 +7,14 @@
       "kid": "bserved-nonprod-1",
       "alg": "RS384",
       "use": "sig"
+    },
+    {
+      "kty": "RSA",
+      "n": "1H3tTgYsTkw05Hb4vDLNXpOtDGEibQpBwmHQPKLDVSjRihvHLLUFj73fNMXY597ny7PJxCtOC0hpjaVX1ugdN82fmIfTFZ7Ia3g4jfglTZGN-y9wUTzQKlOTeEhUfsGmrMhDJy0JGLbTm4v_AhFI7JXz9f0px0P3xmTDzOPz2diriJQMa0AesMhT1cjdteiLTMEEbdd2GbEaUysDEI5tEJ0DaPax59ppCdqtoSZoaVVUOzomBgS_-dEPF9w9glUyM_y3Rf08DTeGTqBC6zXkfTCPz2MI0KL7BbJZRz6s_-koAXTeB-LjEjBvEzaS3mmhGBD3yGYQDY171Jxk_y1ORw",
+      "e": "AQAB",
+      "kid": "mgear-nonprod-1",
+      "alg": "RS384",
+      "use": "sig"
     }
   ]
 }
