@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "nK9zzi2shEg9527URpbN9ZXCcw9OjrnVLg9nJUVZSR4LPzw4thQHEvUEic593H_-kmPXuWXFketIZwHDkEMMGzO26OQ77n972QLuKnHdJSRtBYkxOaSDaDx4SvCGIVXZMLYWGlYnXtJhyZaIl6FDDm8aagsJ21Kxv8RcpCGKClmiuAIcD71WKp0GzQaRwFHMhYv7kmaRtWSdVecYTiinlYYmQbq649RZJ4oYOje556NqCFoQJpkQTTaHtUymjnZmM2T20peN5SOqVltG_8q203f6v3VNJB4UvVarvn7-vxMI36kJRrvSVcr7146jfNWd-dh2yALW7zAvIPfRUTh-pw",
+      "e": "AQAB",
+      "kid": "paragon-nonprod-1",
+      "alg": "RS384",
+      "use": "sig"
+    }
+  ]
+}
